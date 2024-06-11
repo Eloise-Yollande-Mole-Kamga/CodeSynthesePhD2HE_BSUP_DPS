@@ -1,0 +1,1 @@
+Ce dossier exécute les algo BSUP et DPS avec les instances d'Hélène: il faut utiliser submitdataHe.sh
